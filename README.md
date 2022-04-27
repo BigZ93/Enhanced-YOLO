@@ -16,3 +16,7 @@ As a testing set, I used Open Images organized in following way:
 		.../<picture.jpg>
   
 PowerShell script helps with organizing photos, results and running everything.
+
+If you already have YOLO, then only add/replace files that are in folder "just modified YOLO files".
+	
+I HIGHLY RECOMMEND using newer build of "darknet", because the one I used crashes from time to time when using GPU.
