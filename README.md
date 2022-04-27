@@ -11,9 +11,9 @@ Requirements:
   - Python 3.7 & Open Images & Pandas
 
 As a testing set, I used Open Images organized in following way:
-  - C:/images/<picture no.>/
-  - C:/images/<picture no.>/data/
-  - C:/images/<picture no.>/<picture.jpg>
+  - C:\images\<picture no.>\
+  - C:\images\<picture no.>\data\
+  - C:\images\<picture no.>\<picture.jpg>
   
 PowerShell script helps with organizing photos, results and running everything.
 
